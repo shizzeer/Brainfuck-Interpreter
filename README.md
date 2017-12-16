@@ -3,7 +3,7 @@
 This is a simple Brainfuck Interpreter written in Python3.5.
 
 # Usage:
-$ ./bf_interpreter.py + [FILE WITH BRAINFUCK CODE]
+$ ./bf_interpreter.py + [FILENAME]
 
 Input is read from STDIN.
 
